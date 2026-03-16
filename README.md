@@ -1,7 +1,7 @@
-#Retail Sales SQL Analysis
+# Retail Sales SQL Analysi
 #Overview:
 In this project I analyzed a retail sales dataset containing about 9,800 orders. The goal was to explore what drives revenue across regions, product categories, and customer segments using SQL.
-#What I Analyzed: 
+# What I Analyzed: 
 Using SQL queries I looked at:
 Total number of orders and overall revenue
 Sales by region
@@ -11,6 +11,6 @@ Best-selling products
 Sales by customer segment and shipping method
 Top states by revenue
 Sales trends over time
-#Tools: 
+# Tools: 
 SQL (SQLite)
 DB Browser for SQLite
