@@ -12,5 +12,5 @@ Sales by customer segment and shipping method
 Top states by revenue
 Sales trends over time
 # Tools: 
-SQL (SQLite)
-DB Browser for SQLite
+- SQL (SQLite)
+- DB Browser for SQLite
